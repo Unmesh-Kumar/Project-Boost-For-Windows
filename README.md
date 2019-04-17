@@ -1,1 +1,1 @@
-# project-boost-with-more-specifications
+This game is based on the concept of flappy bird,here you have a rocket which you have to take to the green landing pad by preventing it from obstacles,use spacebar for thrust and left and right arrows for rotation,there are only two levels available at present,please give it a try
